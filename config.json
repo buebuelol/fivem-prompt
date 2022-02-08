@@ -1,0 +1,11 @@
+{
+	"token":"",
+	"prefix":"",
+	"authorizedrole":"",
+	"mysql":{
+		"host":"",
+		"user":"",
+		"password":"",
+		"database":""
+	}
+}
