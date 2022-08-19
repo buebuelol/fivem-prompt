@@ -6,6 +6,6 @@
 		"host":"",
 		"user":"",
 		"password":"",
-		"database":""
+		"db":""
 	}
 }
